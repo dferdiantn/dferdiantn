@@ -1,7 +1,7 @@
 <p align="center">
 <h2>Hi everyone, my name is Ferdi. this is the start for me  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img src="https://github.com/dferdiantn/dferdiantn/blob/main/ferwt.gif">
 <img align='right' src="https://media.giphy.com/media/W1QXWwnYSkKo2w6gFB/giphy.gif" width="230">
-<img align='left' src="https://github.com/dferdiantn/dferdiantn/blob/main/ferwt.gif">
   <br>
   <img align='left' src="https://github.com/dferdiantn/dferdiantn/blob/main/fer.gif">
 </p>
