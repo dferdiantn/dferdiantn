@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+  <img src="https://github.com/dferdiantn/dferdiantn/blob/main/code.gif">
 </p>
 
 <p align="center">
