@@ -1,5 +1,5 @@
 <p align="center">
-  ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/Enter_Mike.gif?raw=true)
+  <img src="https://github.com/mscoutermarsh/mscoutermarsh/blob/master/Enter_Mike.gif">
   <img src="https://github.com/dferdiantn/dferdiantn/blob/main/fer.gif">
 </p>
 
