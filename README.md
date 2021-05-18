@@ -1,5 +1,4 @@
-<p style="text-align:center">Belajar pemrograman web di www.malasngoding.com</p>
-### Hi there 👋
+<p style="text-align:center">Hi there 👋</p>
 
 <!--
 **dferdiantn/dferdiantn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
