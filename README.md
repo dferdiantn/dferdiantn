@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dferdiantn/dferdiantn/blob/main/ferbk.gif">
-  <br>
-  <img src="https://github.com/dferdiantn/dferdiantn/blob/main/ferwt.gif">
-  <br>
-  <img src="https://github.com/dferdiantn/dferdiantn/blob/main/fergr.gif">
+<img src="https://github.com/dferdiantn/dferdiantn/blob/main/ferwt.gif">
   <br>
   <img src="https://github.com/dferdiantn/dferdiantn/blob/main/fer.gif">
 </p>
