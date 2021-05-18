@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://github.com/mscoutermarsh/mscoutermarsh/blob/master/Enter_Mike.gif">
+  <img src="https://github.com/dferdiantn/dferdiantn/blob/main/ferbk.gif">
+  <br>
+  <img src="https://github.com/dferdiantn/dferdiantn/blob/main/fergr.gif">
+  <br>
+  <img src="https://github.com/dferdiantn/dferdiantn/blob/main/fergr.gif">
   <br>
   <img src="https://github.com/dferdiantn/dferdiantn/blob/main/fer.gif">
 </p>
